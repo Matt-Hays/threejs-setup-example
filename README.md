@@ -1,6 +1,6 @@
 # Three JS Typescript Demo
 
-A basic Three JS and GSAP project demonstrating basic usage.
+A Three JS and GSAP project demonstrating basic usage.
 
 - Developed in Typescript.
 - Three JS usage including custom textures.
