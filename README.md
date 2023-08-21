@@ -1,4 +1,5 @@
 # Three JS Typescript Demo
+_Written as part of self-led studies regarding 3D rendering in browsers using JavaScript. This is a very basic setup example._
 
 A Three JS and GSAP project demonstrating basic usage.
 
